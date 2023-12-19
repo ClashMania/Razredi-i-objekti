@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\bin\Debug\Razredi i objekti.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\bin\Debug\Razredi i objekti.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\bin\Debug\Razredi i objekti.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\obj\Debug\Razredi i objekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\obj\Debug\Razredi i objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\obj\Debug\Razredi i objekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\obj\Debug\Razredi i objekti.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Razredi i objekti\obj\Debug\Razredi i objekti.pdb
